@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+  header {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+
+  .head {
+    padding: 0;
+    height: 110%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    color: black;
+    font-family: 'Champions Light';
+  }
